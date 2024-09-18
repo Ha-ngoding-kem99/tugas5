@@ -18,9 +18,13 @@ baru.urut.
 
 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file 
 rmdirerror.txt. 
+![image](https://github.com/user-attachments/assets/2ac7b147-264c-41f5-915a-983c42d484ab)
+![image](https://github.com/user-attachments/assets/0e1bb2d1-e0db-4f36-93a7-1b3b23a18cb6)
+![image](https://github.com/user-attachments/assets/721ec037-f6d0-4de3-8208-17556d3b82a8)
+![image](https://github.com/user-attachments/assets/756cecb5-5045-4847-9d55-4fd2d4eead1b)
+![image](https://github.com/user-attachments/assets/cdc005ae-7a13-4239-8378-2f74905cde1c)
 
-
-6. Urutkan kalimat berikut :
+6 Urutkan kalimat berikut :
 
    Jakarta
 
@@ -36,10 +40,27 @@ rmdirerror.txt.
 
 Dengan menggunakan notasi here document (<@@@ …@@@) 
 
+![image](https://github.com/user-attachments/assets/d38fd984-352b-4063-8293-8bcc67ae63e5)
+
 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan 
 tambahkan data tersebut ke file baru. 
+![image](https://github.com/user-attachments/assets/dd2969d8-e28c-477a-92e6-5542c7ed8fb5)
+![image](https://github.com/user-attachments/assets/f57bec69-74e2-453c-b47d-49ee8005cc35)
+![image](https://github.com/user-attachments/assets/670da7ed-0dff-40a8-9089-ff98d3933f46)
+
 8. Gunakan perintah di bawah ini dan perhatikan hasilnya.
+
 $ cat /etc/passwd | sort | pr –n | grep tty03 
+![image](https://github.com/user-attachments/assets/e3fa6ef7-f3e5-43f2-ae3d-64c81c87b0a1)
+
 $ find /etc –print | head 
+
+![image](https://github.com/user-attachments/assets/65597e79-77c5-4c79-811e-6d4070014ada)
+
 $ head /etc/passwd | tail –5 | sort 
+
+![image](https://github.com/user-attachments/assets/d49977c8-2ca9-463b-adc6-0c6eb3f2fcc0)
+
 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
+![image](https://github.com/user-attachments/assets/3a2bfc80-11c6-4198-8dbd-99e9f5041c69)
+
