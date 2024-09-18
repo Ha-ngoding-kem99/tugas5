@@ -1,3 +1,5 @@
+# M.Hakeem Alqardhawi 09011282328072 SK3C
+
 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file 
 baru.
 ![image](https://github.com/user-attachments/assets/073ce599-885e-4094-a760-b6f459eb1fee)
