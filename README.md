@@ -7,14 +7,22 @@ ke file baru tanpa menghapus file baru sebelumnya.
 baru.urut. 
 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file 
 rmdirerror.txt. 
-6. Urutkan kalimat berikut : 
-Jakarta 
-Bandung 
-Surabaya 
-Padang 
-Palembang 
-Lampung 
+6. Urutkan kalimat berikut :
+
+   Jakarta
+
+   Bandung
+
+   Surabaya 
+
+   Padang 
+
+   Palembang 
+
+   Lampung 
+
 Dengan menggunakan notasi here document (<@@@ …@@@) 
+
 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan 
 tambahkan data tersebut ke file baru. 
 8. Gunakan perintah di bawah ini dan perhatikan hasilnya.
