@@ -1,5 +1,8 @@
 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file 
-baru. 
+baru.
+![image](https://github.com/user-attachments/assets/073ce599-885e-4094-a760-b6f459eb1fee)
+![image](https://github.com/user-attachments/assets/5ccef302-4e5c-4cde-a35a-c41e50c5e0dd)
+
 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output 
 ke file baru tanpa menghapus file baru sebelumnya. 
 3. Urutkan file baru dengan cara membelokkan standard input. 
